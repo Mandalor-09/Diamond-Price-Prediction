@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: Diamond-Price-Prediction
+Version: 0.0.1
+Summary: Predicting Diamonds Prices using Machine Learning Algorithms.
+Author: Mandalor09
+Author-email: oms42162@gmail.com
+Requires-Dist: setuptools
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn
